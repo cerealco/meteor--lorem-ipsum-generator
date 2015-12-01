@@ -1,0 +1,1 @@
+Use this to generate a random string of lorem ipsum with meteorJS.
